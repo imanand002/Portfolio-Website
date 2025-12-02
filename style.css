@@ -11,11 +11,13 @@ body{
   background: #080808;
   color: #fff;
 }
+
 #header{
-  width: 100%;
+  width: 160%;
   height: 100vh;
-  background-image: url(images/Portfolio-images/background.png);
-  background-size: cover;
+  background-image: url(./public/images/Portfolio-images/phone-background.png);
+  background-size: contain;
+  background-repeat: no-repeat;
   background-position: center;
 }
 
