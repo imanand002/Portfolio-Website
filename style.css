@@ -330,7 +330,7 @@ nav .fa-solid{
 /* ---------------Making website responsive-------------- */
 @media only screen and (max-width: 600px) {
   #header{
-    background-image: url(../public/images/Portfolio-images/phone-background.png);
+    background-image: url(./public/images/Portfolio-images/phone-background.png);
   }
 
   .header-text{
